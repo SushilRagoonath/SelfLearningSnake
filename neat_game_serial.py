@@ -1,6 +1,11 @@
 from snake_class import *
 import neat
 import numpy as np
+'''
+Written by:Sushil Ragoonath
+https://github.com/SushilRagoonath/
+'''
+
 def output_to_nn(cnake=Snake()):
     #distance
 
