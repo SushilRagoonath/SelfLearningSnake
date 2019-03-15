@@ -4,6 +4,11 @@ p.init()
 clock = p.time.Clock()
 p.display.set_caption('test')
 
+'''
+Written by: Sushil Ragoonath
+https://github.com/SushilRagoonath/
+'''
+
 snake =Snake()
 snake.movement()
 snake.food()
