@@ -4,6 +4,11 @@ import array as ar
 import random as ra
 import numpy as np
 from genetic import *
+'''
+Written by:Sushil Ragoonath
+https://github.com/SushilRagoonath/
+'''
+
 Size_x=800
 Size_y=800
 disp = p.display.set_mode((Size_x,Size_y))
